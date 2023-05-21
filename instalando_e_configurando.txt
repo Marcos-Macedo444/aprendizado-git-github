@@ -1,0 +1,1 @@
+Este módulo foi ensinado a utilizar o git no windows e também através do linux. Mostrando na prática como instalar e configurar o git de forma certa e detalhada.
