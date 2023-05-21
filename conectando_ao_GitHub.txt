@@ -1,0 +1,1 @@
+Este módulo foi ensinado os passos de como faz para se conectar ao github, colocando projetos de teste na prática.
