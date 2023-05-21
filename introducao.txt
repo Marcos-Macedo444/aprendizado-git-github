@@ -1,1 +1,4 @@
-Neste módulo foi ensinado a introdução do git e qual a finalidade dele como um sistema de controle de versões. É uma ferramenta essêncial para aprender, pois ela permite que você desenvolva trabalhos em grupos, ajudando na prevenção de erro através da flexibilidade do usuário de poder retroceder para "commits" anteriores e organização. É um sistema de versionamento muito utilizado atualmente por programadores ao redor do mundo. 
+Neste módulo foi ensinado a introdução do git e qual a finalidade dele como um sistema de controle de versões. 
+É uma ferramenta essêncial para aprender, pois ela permite que você desenvolva trabalhos em 
+grupos, ajudando na prevenção de erro através da flexibilidade do usuário de poder retroceder para "commits" anteriores e organização.
+É um sistema de versionamento muito utilizado atualmente por programadores ao redor do mundo. 
