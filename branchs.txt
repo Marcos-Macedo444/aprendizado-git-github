@@ -1,0 +1,2 @@
+Neste módulo foi falado das branchs e sua finalidade. 
+Ela permite uma ramificação em meio seu projeto, onde não afetará o código estável.
